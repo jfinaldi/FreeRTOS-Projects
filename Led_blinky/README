@@ -1,0 +1,4 @@
+LED Blinking Light Demo
+
+Create a program that will blink the built-in LED light on the ESP32 board. 
+Light should turn on for 10 seconds and go off for 2 seconds and repeat indefinitely.
